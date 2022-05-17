@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter development**💙
 
-- 🎯 I have accepted the **100DaysOfCode Challenge**👩🏻‍💻
+- 🎯 I have accepted the **50DaysOfCode Challenge**👩🏻‍💻
 
 - 📫 How to reach me **riyakansal.932@gmail.com**
 
