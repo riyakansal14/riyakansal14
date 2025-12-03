@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Riya Kansal</h1>
-<h3 align="center">Software Developer | Re-exploring Java | Ex-Avaloq</h3>
+<h3 align="center">Avaloq Software Developer | Re-exploring Java</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=riyakansal14&label=Profile%20views&color=0e75b6&style=flat" alt="riyakansal14" /> 
 </p>
 
-- 💼 Previously worked with **Avaloq** (core banking systems, payments, SQL)
+- 💼 Working with **Avaloq** (core banking systems, payments, SQL)
 - 🔭 Currently transitioning back to **Java development**
 - 🌱 Improving my skills in **core Java, OOP, Spring, SQL, and backend fundamentals**
 - 🧩 Interested in **clean code, APIs, and scalable backend services**
