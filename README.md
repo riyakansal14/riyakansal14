@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/>
 </a>
 
-<a href="https://linkedin.com/in/riyakansal" target="_blank">
+<a href="https://www.linkedin.com/in/kansal-riya12/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
 </a>
 
