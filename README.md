@@ -6,9 +6,8 @@
 </p>
 
 - 💼 Working with **Avaloq** (core banking systems, payments, SQL)
-- 🔭 Currently transitioning back to **Java development**
-- 🌱 Improving my skills in **core Java, OOP, Spring, SQL, and backend fundamentals**
-- 🧩 Interested in **clean code, APIs, and scalable backend services**
+- 🌱 Improving my skills in **Avaloq scripting and problem solving**
+- 🧩 Interested in **finance and banking**
 - ✨ Building small Java projects to learn by doing
 - 📫 Reach me at: **riyakansal.932@gmail.com**
 - 😄 Pronouns: **She/Her**
